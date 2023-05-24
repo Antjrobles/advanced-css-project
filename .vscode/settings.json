@@ -1,3 +1,4 @@
 {
-  "cSpell.words": ["Natours"]
+  "cSpell.words": ["Natours"],
+  "ansible.python.interpreterPath": "/usr/local/bin/python3"
 }
